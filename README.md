@@ -1,154 +1,131 @@
-# Cognizant Digital Nurture 4.0 - Java Full Stack Engineer (FSE)
+# Cognizant Digital Nurture - Java Full Stack Engineer (Java FSE)
 
-## About
+## 📌 About
 
-This repository contains my hands-on exercises, assignments, and practice programs completed as part of the **Cognizant Digital Nurture 4.0 - Java Full Stack Engineer (Java FSE)** training program.
+This repository contains my hands-on exercises, assignments, and projects completed as part of the **Cognizant Digital Nurture – Java Full Stack Engineer (Java FSE)** learning program.
 
-The repository covers Core Java concepts, Data Structures & Algorithms, Design Principles & Patterns, Test-Driven Development, Spring Framework, Spring Boot, Spring Data JPA, RESTful APIs, and PL/SQL.
+The repository is organized **week-wise**, with each folder containing the projects and exercises assigned during that week.
 
 ---
-# Technologies Used
 
-- Java 17
-- Maven
+## 📚 Weekly Learning Plan
+
+### ✅ Week 1
+- Design Patterns and Principles
+- Data Structures and Algorithms
+- PL/SQL Programming
+- Test-Driven Development (TDD)
+- Logging Framework (SLF4J)
+
+### ✅ Week 2
+- Spring Core
+- Apache Maven
+- Spring Data JPA
+- Spring Boot
+- Hibernate ORM
+
+### ✅ Week 3
+- Spring REST using Spring Boot 3
+
+### ✅ Week 4
+- Code Quality
+- SonarQube
+- Microservices using Spring Boot 3
+- Spring Cloud
+
+### ✅ Week 5
+- Angular / React
+
+### ✅ Week 6
+- Angular / React
+- Git
+- CI/CD
+
+### ✅ Week 7
+- DevOps Fundamentals
+- Docker
+- Cloud Fundamentals
+- Generative AI Fundamentals
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+- Java
+- SQL
+- PL/SQL
+- JavaScript
+- TypeScript
+
+### Backend
 - Spring Framework
 - Spring Boot
-- Spring MVC
 - Spring Data JPA
 - Hibernate
-- REST APIs
+- Spring REST
+- Spring Cloud
+- Microservices
+
+### Frontend
+- Angular
+- React
+
+### Database
 - MySQL
-- PL/SQL
+
+### Testing & Logging
 - JUnit 5
 - Mockito
+- Test-Driven Development (TDD)
 - SLF4J
-- Logback
-- Eclipse IDE
+
+### Build & Version Control
+- Apache Maven
+- Git
+- GitHub
+
+### DevOps & Cloud
+- Docker
+- CI/CD
+- SonarQube
+- Cloud Fundamentals
+
+### IDE & Tools
+- IntelliJ IDEA
+- Eclipse
+- Visual Studio Code
+- Postman
 
 ---
 
-## Modules Covered
+## 🎯 Repository Highlights
 
-### Design Principles & Patterns
-
-- SOLID Principles
-- Singleton Pattern
-- Factory Pattern
-- Dependency Injection
-- Design Pattern Implementations
-
-### Data Structures & Algorithms
-
-- Arrays
-- Linear Search
-- Binary Search
-- Bubble Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
-- Heap Sort
-- Time Complexity Analysis
-
-### Test Driven Development (TDD)
-
-- JUnit 5
-- Assertions
-- Test Lifecycle
-- Parameterized Tests
-- Mockito
-- Unit Testing
-
-### Logging
-
-- SLF4J
-- Logback
-- Error Logging
-- Warning Logging
-
-### Spring Core & Maven
-
-- Maven Project Structure
-- Dependency Management
-- Spring IoC
-- Bean Configuration
-- Constructor Injection
-- Setter Injection
-- Annotation-based Configuration
-
-### Spring Data JPA
-
-- Entity Mapping
-- Repository Interfaces
-- CRUD Operations
-- MySQL Integration
-- JPQL Basics
-
-### Spring Boot REST
-
-- REST Controllers
-- HTTP Methods
-- Request Mapping
-- Path Variables
-- Request Parameters
-- JSON Request & Response
-- ResponseEntity
-- Exception Handling
-
-### PL/SQL
-
-- Stored Procedures
-- Functions
-- Cursors
-- Triggers
-- Packages
-- Exception Handling
-
----
-
-## Learning Outcomes
-
-This repository demonstrates practical knowledge of:
-
-- Object-Oriented Programming
-- Java Programming
-- Data Structures & Algorithms
-- Unit Testing
-- Logging Frameworks
-- Maven Build Tool
-- Spring Framework
-- Spring Boot
+- Weekly organized hands-on exercises
+- Java Full Stack development projects
+- Spring Boot applications
 - RESTful Web Services
-- Spring Data JPA
-- Database Programming using PL/SQL
+- Database integration using Spring Data JPA & Hibernate
+- Unit Testing with JUnit and Mockito
+- Microservices implementation
+- Frontend applications using Angular/React
+- Version control using Git and GitHub
+- DevOps and Cloud fundamentals
 
 ---
 
-## How to Run
+## 🎓 Objective
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/Logesh-718/Cognizant-Digital-Nurture-Java-FSE.git
-```
-
-2. Open the project in Eclipse IDE.
-
-3. Update Maven dependencies.
-
-```
-Right Click Project → Maven → Update Project
-```
-
-4. Configure MySQL (for Spring Data JPA exercises).
-
-5. Run the desired Java or Spring Boot application.
+The objective of this repository is to document my learning journey through the Cognizant Digital Nurture Java FSE program by implementing practical exercises and projects across backend, frontend, databases, testing, microservices, DevOps, and cloud technologies.
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Logesh**
 
 Java Full Stack Engineer Trainee
 
-Cognizant Digital Nurture 4.0
+---
+
+⭐ Thank you for visiting this repository!
